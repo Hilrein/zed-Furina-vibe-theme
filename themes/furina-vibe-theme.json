@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Hilrein",
+  "name": "Furina Vibe Theme",
   "author": "Hilrein (github.com/hilrein)",
   "themes": [
     {
@@ -25,27 +25,27 @@
         "vim.visual_line.background": "#b4befe",
         "vim.visual_block.background": "#cba6f7",
         "vim.replace.background": "#9333eab7",
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "border": "#C0E8FC08",
         "border.variant": "#7C3AED00",
         "border.focused": "#b4befe",
-        "border.selected": "#cba6f7",
+        "border.selected": "#5484FF44",
         "border.transparent": "#a6e3a1",
         "border.disabled": "#6c7086",
         "elevated_surface.background": "#10111AFF",
         "elevated_surface.border": "#fff",
         "surface.background": "#10121AE7",
-        "background": "#181B2E54",
+        "background": "#10111AE7",
         "element.background": "#11111b",
-        "element.hover": "#7c3aed30",
+        "element.hover": "#5484FF33",
         "element.active": "#00000000",
-        "element.selected": "#7c3aed50",
+        "element.selected": "#5484FF33",
         "element.disabled": "#6c7086",
         "drop_target.background": "#cba6f7b0",
         "ghost_element.background": "#18182560",
         "ghost_element.hover": "#18182590",
-        "ghost_element.active": "#cba6f730",
-        "ghost_element.selected": "#cba6f750",
+        "ghost_element.active": "#5484FF33",
+        "ghost_element.selected": "#5484FF33",
         "ghost_element.disabled": "#6c7086",
         "text": "#fafafab7",
         "text.muted": "#bac2deb7",
@@ -57,20 +57,20 @@
         "icon.disabled": "#6c7086",
         "icon.placeholder": "#585b70",
         "icon.accent": "#A6BDF7FF",
-        "status_bar.background": "#181B2E54",
-        "title_bar.background": "#181B2E54",
+        "status_bar.background": "#10111AE7",
+        "title_bar.background": "#10111AE7",
         "title_bar.inactive_background": "#171725",
         "toolbar.background": "#00000000",
         "tab_bar.background": "#00000000",
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#5682F050",
-        "search.match_background": "#7C3AEDB7",
+        "search.match_background": "#5484FF55",
         "panel.background": "#00000000",
         "panel.focused_border": "#D9111100",
         "panel.indent_guide": "#313F4499",
         "panel.indent_guide_active": "#585b70",
-        "panel.indent_guide_hover": "#CBA6F7FF",
-        "panel.overlay_background": "#13101A",
+        "panel.indent_guide_hover": "#2F6AF5FF",
+        "panel.overlay_background": "#10111AE7",
         "pane.focused_border": "#31324410",
         "pane_group.border": "#31324415",
         "scrollbar.thumb.background": "#00000000",
@@ -87,7 +87,7 @@
         "editor.background": "#00000000",
         "editor.gutter.background": "#00000000",
         "editor.subheader.background": "#181825",
-        "editor.active_line.background": "#5682F012",
+        "editor.active_line.background": "#5682F02B",
         "editor.highlighted_line.background": "#f5e0dc12",
         "editor.line_number": "#ffffff20",
         "editor.active_line_number": "#f5e0dc90",
@@ -174,7 +174,7 @@
         "players": [
           {
             "cursor": "#f5e0dc",
-            "selection": "#7c3aed70",
+            "selection": "#5484ff55",
             "background": "#f5e0dc"
           },
           {
@@ -723,7 +723,8 @@
             "color": "#DCE0E5FF"
           }
         },
-        "panel.overlay_hover": "#181B2E54"
+        "panel.overlay_hover": "#181B2E54",
+        "element.selection_background": "#5484FF33"
       }
     },
     {
@@ -810,7 +811,7 @@
         "editor.background": "#00000000",
         "editor.gutter.background": "#00000000",
         "editor.subheader.background": "#181825",
-        "editor.active_line.background": "#7c3aed30",
+        "editor.active_line.background": "#5484FF44",
         "editor.highlighted_line.background": "#f5e0dc12",
         "editor.line_number": "#ffffff20",
         "editor.active_line_number": "#f5e0dc90",
@@ -2227,7 +2228,7 @@
         "tab_bar.background": "#00000000",
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#EB0C6750",
-        "search.match_background": "#EB0C67b7",
+        "search.match_background": "#5484FF55",
         "panel.background": "#00000000",
         "panel.focused_border": "#00000000",
         "panel.indent_guide": "#31324499",
@@ -6488,5 +6489,5 @@
     }
   ],
   "isUserGenerated": true,
-  "description": "My Theme for Zed"
+  "description": "A dark blu blurred theme inspired by Furina"
 }

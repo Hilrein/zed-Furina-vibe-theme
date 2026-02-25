@@ -1,7 +1,7 @@
 id = "furina-vibe-theme"
-name = "Hilrein"
-version = "0.0.1"
+name = "Furina Vibe Theme"
+version = "0.1.0"
 schema_version = 1
 authors = ["Hilrein (github.com/hilrein)"]
-description = "My Theme for Zed"
-repository = "https://github.com/hilrein/my-zed-extension"
+description = "A dark blue blurred theme inspired by Furina"
+repository = "https://github.com/Hilrein/zed-Furina-vibe-theme"
