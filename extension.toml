@@ -1,6 +1,6 @@
 id = "furina-vibe-theme"
 name = "Furina Vibe Theme"
-version = "0.1.1"
+version = "0.1.2"
 schema_version = 1
 authors = ["Hilrein (github.com/hilrein)"]
 description = "A dark blue theme inspired by Furina"
