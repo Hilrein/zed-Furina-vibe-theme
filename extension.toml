@@ -3,5 +3,5 @@ name = "Furina Vibe Theme"
 version = "0.1.1"
 schema_version = 1
 authors = ["Hilrein (github.com/hilrein)"]
-description = "A dark blue blurred theme inspired by Furina"
+description = "A dark blue theme inspired by Furina"
 repository = "https://github.com/Hilrein/zed-Furina-vibe-theme"
