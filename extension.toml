@@ -3,5 +3,9 @@ name = "Furina Vibe Theme"
 version = "0.1.2"
 schema_version = 1
 authors = ["Hilrein (github.com/hilrein)"]
+<<<<<<< HEAD
 description = "A dark blue theme inspired by Furina"
+=======
+description = "A dark blue blurred theme inspired by Furina from Genshin Impact"
+>>>>>>> eb33a76c536d42c50fceea31416950462c633279
 repository = "https://github.com/Hilrein/zed-Furina-vibe-theme"
